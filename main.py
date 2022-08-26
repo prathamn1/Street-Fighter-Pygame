@@ -1,6 +1,7 @@
 import pygame
 from pygame import mixer
-from fighter import Fighter
+from assets.fighter import Fighter
+
 
 mixer.init()
 pygame.init()
